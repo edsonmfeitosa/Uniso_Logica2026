@@ -1,0 +1,15 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\bin\Debug\net10.0\Hipotenusa.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\bin\Debug\net10.0\Hipotenusa.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\bin\Debug\net10.0\Hipotenusa.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\bin\Debug\net10.0\Hipotenusa.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\bin\Debug\net10.0\Hipotenusa.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\refint\Hipotenusa.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\Hipotenusa.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Hipotenusa\obj\Debug\net10.0\ref\Hipotenusa.dll

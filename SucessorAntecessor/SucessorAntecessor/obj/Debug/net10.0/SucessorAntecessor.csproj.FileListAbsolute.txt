@@ -1,0 +1,15 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\bin\Debug\net10.0\SucessorAntecessor.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\bin\Debug\net10.0\SucessorAntecessor.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\bin\Debug\net10.0\SucessorAntecessor.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\bin\Debug\net10.0\SucessorAntecessor.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\bin\Debug\net10.0\SucessorAntecessor.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\refint\SucessorAntecessor.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\SucessorAntecessor.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\SucessorAntecessor\SucessorAntecessor\obj\Debug\net10.0\ref\SucessorAntecessor.dll
