@@ -1,0 +1,15 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\bin\Debug\net10.0\AulaCondicional.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\bin\Debug\net10.0\AulaCondicional.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\bin\Debug\net10.0\AulaCondicional.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\bin\Debug\net10.0\AulaCondicional.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\bin\Debug\net10.0\AulaCondicional.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\refint\AulaCondicional.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\AulaCondicional.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\AulaCondicional\AulaCondicional\obj\Debug\net10.0\ref\AulaCondicional.dll
