@@ -1,0 +1,16 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\bin\Debug\net10.0\JoqueiPo.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\bin\Debug\net10.0\JoqueiPo.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\bin\Debug\net10.0\JoqueiPo.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\bin\Debug\net10.0\JoqueiPo.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\bin\Debug\net10.0\JoqueiPo.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\refint\JoqueiPo.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\ref\JoqueiPo.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\JoqueiPo\obj\Debug\net10.0\JoqueiPo.csproj.Up2Date

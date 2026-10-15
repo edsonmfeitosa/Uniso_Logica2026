@@ -1,0 +1,16 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\bin\Debug\net10.0\AcertaNumro.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\bin\Debug\net10.0\AcertaNumro.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\bin\Debug\net10.0\AcertaNumro.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\bin\Debug\net10.0\AcertaNumro.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\bin\Debug\net10.0\AcertaNumro.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\refint\AcertaNumro.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNumro.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\ref\AcertaNumro.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\AcertaNumro\obj\Debug\net10.0\AcertaNu.B7099A55.Up2Date
