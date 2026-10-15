@@ -1,0 +1,16 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\bin\Debug\net10.0\QuestaoSwitch.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\bin\Debug\net10.0\QuestaoSwitch.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\bin\Debug\net10.0\QuestaoSwitch.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\bin\Debug\net10.0\QuestaoSwitch.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\bin\Debug\net10.0\QuestaoSwitch.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\refint\QuestaoSwitch.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoSwitch.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\ref\QuestaoSwitch.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Prova01\QuestaoSwitch\obj\Debug\net10.0\QuestaoS.D43462F4.Up2Date
