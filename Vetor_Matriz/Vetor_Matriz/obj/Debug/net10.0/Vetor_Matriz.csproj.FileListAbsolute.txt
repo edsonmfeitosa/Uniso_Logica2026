@@ -1,0 +1,16 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\bin\Debug\net10.0\Vetor_Matriz.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\bin\Debug\net10.0\Vetor_Matriz.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\bin\Debug\net10.0\Vetor_Matriz.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\bin\Debug\net10.0\Vetor_Matriz.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\bin\Debug\net10.0\Vetor_Matriz.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\refint\Vetor_Matriz.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Matriz.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\ref\Vetor_Matriz.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\Vetor_Matriz\Vetor_Matriz\obj\Debug\net10.0\Vetor_Ma.2AD1C9B5.Up2Date
