@@ -1,0 +1,16 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\bin\Debug\net10.0\Exercicio04_repeticao.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\bin\Debug\net10.0\Exercicio04_repeticao.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\bin\Debug\net10.0\Exercicio04_repeticao.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\bin\Debug\net10.0\Exercicio04_repeticao.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\bin\Debug\net10.0\Exercicio04_repeticao.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\refint\Exercicio04_repeticao.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercicio04_repeticao.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\ref\Exercicio04_repeticao.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioRepeticao\Exercicio04_repeticao\obj\Debug\net10.0\Exercici.D8594A0D.Up2Date

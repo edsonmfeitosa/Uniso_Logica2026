@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JoqueiPo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13751489e3d416382d1f8f8506e9efb5cf526610")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b929cd479e67cb8f094d14efbd84dd02e74a27da")]
 [assembly: System.Reflection.AssemblyProductAttribute("JoqueiPo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JoqueiPo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

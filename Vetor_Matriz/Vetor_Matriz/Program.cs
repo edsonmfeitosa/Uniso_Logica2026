@@ -43,3 +43,7 @@ for (int linha = 0; linha < 4; linha++)
     }
     Console.WriteLine();
 }
+
+Random r = new Random();
+int numeroRandomico = r.Next(1, 101); // Gera um número aleatório entre 1 e 100
+Console.WriteLine("Escolha de número randomico: " + numeroRandomico);
