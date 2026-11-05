@@ -1,0 +1,16 @@
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\bin\Debug\net10.0\CampoMinado.exe
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\bin\Debug\net10.0\CampoMinado.deps.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\bin\Debug\net10.0\CampoMinado.runtimeconfig.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\bin\Debug\net10.0\CampoMinado.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\bin\Debug\net10.0\CampoMinado.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.AssemblyInfoInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.AssemblyInfo.cs
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.sourcelink.json
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\refint\CampoMinado.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.pdb
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMinado.genruntimeconfig.cache
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\ref\CampoMinado.dll
+C:\Pessoal\Aulas\Uniso\Uniso_Logica2026\DesafioMatrizes\CampoMinado\obj\Debug\net10.0\CampoMin.234DA50C.Up2Date
